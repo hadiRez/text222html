@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+#test
 INSTALLED_APPS = [
     'blog',
     'ckeditor',
